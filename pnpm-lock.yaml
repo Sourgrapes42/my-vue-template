@@ -12,7 +12,7 @@ dependencies:
 devDependencies:
   '@vitejs/plugin-vue':
     specifier: ^3.0.3
-    version: 3.0.3(vite@3.2.7)(vue@3.2.37)
+    version: 3.0.3(vite@3.2.8)(vue@3.2.37)
   '@vue/eslint-config-typescript':
     specifier: ^11.0.0
     version: 11.0.0(eslint-plugin-vue@9.3.0)(eslint@8.22.0)(typescript@4.7.4)
@@ -38,8 +38,8 @@ devDependencies:
     specifier: ~4.7.4
     version: 4.7.4
   vite:
-    specifier: ^3.2.7
-    version: 3.2.7
+    specifier: ^3.2.8
+    version: 3.2.8
   vue-tsc:
     specifier: ^0.40.1
     version: 0.40.1(typescript@4.7.4)
@@ -274,14 +274,14 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@vitejs/plugin-vue@3.0.3(vite@3.2.7)(vue@3.2.37):
+  /@vitejs/plugin-vue@3.0.3(vite@3.2.8)(vue@3.2.37):
     resolution: {integrity: sha512-U4zNBlz9mg+TA+i+5QPc3N5lQvdUXENZLO2h0Wdzp56gI1MWhqJOv+6R+d4kOzoaSSq6TnGPBdZAXKOe4lXy6g==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       vite: ^3.0.0
       vue: ^3.2.25
     dependencies:
-      vite: 3.2.7
+      vite: 3.2.8
       vue: 3.2.37
     dev: true
 
@@ -1517,8 +1517,8 @@ packages:
     resolution: {integrity: sha512-l8lCEmLcLYZh4nbunNZvQCJc5pv7+RCwa8q/LdUx8u7lsWvPDKmpodJAJNwkAhJC//dFY48KuIEmjtd4RViDrA==}
     dev: true
 
-  /vite@3.2.7:
-    resolution: {integrity: sha512-29pdXjk49xAP0QBr0xXqu2s5jiQIXNvE/xwd0vUizYT2Hzqe4BksNNoWllFVXJf4eLZ+UlVQmXfB4lWrc+t18g==}
+  /vite@3.2.8:
+    resolution: {integrity: sha512-EtQU16PLIJpAZol2cTLttNP1mX6L0SyI0pgQB1VOoWeQnMSvtiwovV3D6NcjN8CZQWWyESD2v5NGnpz5RvgOZA==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
